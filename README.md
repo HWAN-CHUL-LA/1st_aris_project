@@ -1,2 +1,8 @@
-# 1st_aris_project
-ai icecream agent robot
+# RAG를 활용한 AI 챗봇 기반 아이스크림 제조 로봇 서비스 
+ai가 
+---
+##주요 구성요소 
+
+##프로젝트 팀 구성
+
+##실행방법 
