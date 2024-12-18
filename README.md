@@ -15,9 +15,8 @@ ai 가 rag, stt 에 따라
 
 <div markdown="1">
 
-|제목|내용|
-|--|--|
 |이름|역할|
+|--|--|
 |김현우|Rag pipeline 구축, llm finetuning, fastapi 서버 구축, face recogntion|
 |김태현|db 구축, face recognition, stt|
 |라환철|llm finetuning, fastapi 서버 통합, stt| 
