@@ -6,7 +6,6 @@ ai 가 rag, stt 에 따라
 
 ## 프로젝트 팀 구성
 <details>
-<summary>접기/펼치기 버튼</summary>
 <div markdown="1">
 
 |제목|내용|
@@ -16,6 +15,7 @@ ai 가 rag, stt 에 따라
 
 </div>
 </details>
+
 ## 시연 영상
 [![Video Label](http://img.youtube.com/vi/OnH8ScQYvCw/0.jpg)](https://www.youtube.com/watch?v=OnH8ScQYvCw)
 
