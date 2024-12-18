@@ -6,4 +6,7 @@ ai 가 rag, stt 에 따라
 
 ## 프로젝트 팀 구성
 
+## 시연 영상
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)]((https://www.youtube.com/watch?v=OnH8ScQYvCw))
+
 ## 실행방법 
