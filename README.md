@@ -2,13 +2,13 @@
 ---
 ai 가 rag, stt 에 따라 
 
-## 주요 구성요소 
-1. llm + RAG 챗봇
-2. fastAPI 서버 (UI 화면-백엔드 연동)
+## 주요 기술 구성요소 
+1. Large Language Model (LLM) + Retrieval-Augmented Generation (RAG)
+2. FastAPI 서버 (UI 화면-백엔드 연동)
 3. DB: 고객 얼굴 및 데이터 관리
-4. face recognition
-5. object detection
-6. robot motion
+4. Face Recognition
+5. Object Detection
+6. Robot Motion
 
 
 ## 프로젝트 팀 구성
